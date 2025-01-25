@@ -31,13 +31,10 @@ Feel free to check out my repositories and connect with me. Let’s build someth
 </p>
 
 ### Currently Playing on Spotify
-[![Spotify](https://novatorem-spotify-playing.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tkizmlfusfrey7o3gd64tfx4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
 
 ### Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/dxrrell)](https://discord.com/users/dxrrell)
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/dxrrell)](https://discord.com/users/your-discord-id)
+[![Discord Presence](https://lanyard.cnrad.dev/api/your-discord-id)](https://discord.com/users/your-discord-id)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrrell&show_icons=true&theme=radical)
