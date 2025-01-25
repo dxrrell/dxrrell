@@ -27,9 +27,7 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 
 <div align="center">
   <a href="www.linkedin.com/in/otood"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-
   <a href="https://www.instagram.com/darrell.otoo/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  
 <img
   src="https://dcbadge.limes.pink/api/shield/338862233893470219"
   alt="write a description depending on your usage"
