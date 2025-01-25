@@ -27,14 +27,14 @@ Feel free to check out my repositories and connect with me. Let’s build someth
 <p align="center">
 <a href="www.linkedin.com/in/otood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/darrell.otoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
-<a href="https://discord.com/users/dxrrell" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="your-discord" height="30" width="40" /></a>
-</p>
+<img
+  src="https://dcbadge.limes.pink/api/shield/338862233893470219"
+  alt="write a description depending on your usage"
+  ?theme=default-inverted
+/>
 
 ### Currently Playing on Spotify
-[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=31tkizmlfusfrey7o3gd64tfx4n4&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
-
-### Discord Presence
-[![Discord Presence](https://lanyard.cnrad.dev/api/your-discord-id)](https://discord.com/users/your-discord-id)
+wip
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrrell&show_icons=true&theme=radical)
