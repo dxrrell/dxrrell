@@ -14,7 +14,7 @@ My passions lie in between machine learning 🤖 and UAV technology ✈️, wher
 
 - 🚀 exploring new ways to bridge hardware and software for real-world applications.
 
-## beyond the screen:
+## 🌍beyond the screen:
 when I’m not coding or tinkering with tech, you’ll probably find me
 - in the gym 💪🏾
 - on a hike 🌳
@@ -24,16 +24,18 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 Feel free to check out my repositories and connect with me. Let’s build something amazing together!
 
 ## connect with me
-<p align="center">
-<a href="www.linkedin.com/in/otood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
-<a href="https://www.instagram.com/darrell.otoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
+
+<div align="center">
+  <a href="www.linkedin.com/in/otood"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/darrell.otoo/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+</div>
 <img
   src="https://dcbadge.limes.pink/api/shield/338862233893470219"
   alt="write a description depending on your usage"
   ?theme=default-inverted
 />
 
-### Currently Playing on Spotify
+### currently playing on spotify
 wip
 
 ## GitHub Stats
