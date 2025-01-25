@@ -23,7 +23,7 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 
 Feel free to check out my repositories and connect with me. Let’s build something amazing together!
 
-## connect with Me
+## connect with me
 <p align="center">
 <a href="www.linkedin.com/in/otood" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/darrell.otoo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="your-instagram" height="30" width="40" /></a>
