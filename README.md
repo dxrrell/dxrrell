@@ -3,7 +3,7 @@
 <h3 align="center">A passionate engineer from NoVA</h3>
 
 ## ✍🏾 about me
-i am a Mechanical Engineer with a Computer Science minor. 
+i am a mechanical engineer with a computer science minor. 
 My passions lie in between machine learning 🤖 and UAV technology ✈️, where I combine my engineering expertise with programming skills to create innovative solutions.
 
 ## 🔧 what I do:
@@ -21,7 +21,8 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 - with my headphones on 🎧
 - or cheering on my favorite Formula 1 teams 🏎️
 
-#### Feel free to check out my repositories and connect with me. Let’s build something amazing together!
+<h2 align="center">Feel free to check out my repositories and connect with me. Let’s build something amazing together!
+/h2>
 
 ## connect with me
 
@@ -35,7 +36,7 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 />
 
 ## currently playing on spotify
-wip
+[![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrrell&show_icons=true&theme=radical)
