@@ -2,22 +2,22 @@
 
 ## ✍🏾 about me
 i am a mechanical engineer with a computer science minor. 
-My passions lie in between machine learning 🤖 and UAV technology ✈️, where I combine my engineering expertise with programming skills to create innovative solutions.
+my passions lie in between machine learning 🤖 and UAV technology ✈️, where i combine my engineering expertise with programming skills to create innovative solutions.
 
-## 🔧 what I do:
+## 🔧 what i do:
 
-- 🐍 writing Python-powered magic to bring machine learning and robotics to life.
+- 🐍 writing python-powered magic to bring machine learning and robotics to life.
 
 - 💡 bringing my mechanical engineering background to life in projects like UAV systems, collaborative robots and more!
 
 - 🚀 exploring new ways to bridge hardware and software for real-world applications.
 
 ## 🌍beyond the screen:
-when I’m not programming or in class, you’ll probably find me...
+when i’m not programming or in class, you’ll probably find me...
 - in the gym 💪🏾
 - on a hike 🌳
 - with my headphones on 🎧
-- or cheering on my favorite Formula 1 drivers 🏎️
+- or cheering on my favorite formula 1 drivers 🏎️
 
 ## connect with me
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; padding: 0; margin: 0;">
