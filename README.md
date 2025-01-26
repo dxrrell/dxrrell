@@ -38,6 +38,8 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 [![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
 
 <!-- Add the Spotify Logo -->
+[![Spotify Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
+
 <a href="https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4" class="spotify-logo">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
     <title>Spotify</title>
