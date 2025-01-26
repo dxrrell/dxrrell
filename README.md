@@ -46,6 +46,7 @@ when I’m not coding or tinkering with tech, you’ll probably find me
     />
   </svg>
 </a>
+
 ###
 
 <picture>
@@ -55,7 +56,3 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 </picture>
 
 ###
-
-## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=dxrrell&show_icons=true&theme=radical)
-
