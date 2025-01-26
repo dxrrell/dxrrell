@@ -19,7 +19,7 @@ when I’m not programming or in class, you’ll probably find me
 - with my headphones on 🎧
 - or cheering on my favorite Formula 1 drivers 🏎️
 
-<div align="center"**Feel free to check out my repositories and connect with me. Let’s build something amazing together!**
+**Feel free to check out my repositories and connect with me. Let’s build something amazing together!**
 
 ## connect with me
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
