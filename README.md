@@ -36,7 +36,7 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 
 ## currently playing on my spotify 🎧
 [![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
-<a href="https://open.spotify.com/user/YOUR_USERNAME">
+<a href="https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4">
   <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" width="20" height="20">
     <title>Spotify</title>
     <path
