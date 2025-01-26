@@ -25,16 +25,20 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 
 ## connect with me
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <a href="https://www.linkedin.com/in/otood" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/otood" target="_blank" style="text-decoration: none; display: flex; align-items: center; gap: 5px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge"/>
   </a>
-  &nbsp;
-  <a href="https://www.instagram.com/darrell.otoo/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo"/>
+  
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/darrell.otoo/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram badge"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/338862233893470219" target="_blank">
+  
+  <!-- Discord -->
+  <a href="https://discord.com/users/338862233893470219" target="_blank" style="text-decoration: none;">
     <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge"/>
   </a>
 
