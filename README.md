@@ -1,7 +1,5 @@
 # hi, i'm Darrell 👋
 
-<h3 align="center">A passionate engineer from NoVA</h3>
-
 ## ✍🏾 about me
 i am a mechanical engineer with a computer science minor. 
 My passions lie in between machine learning 🤖 and UAV technology ✈️, where I combine my engineering expertise with programming skills to create innovative solutions.
@@ -15,13 +13,13 @@ My passions lie in between machine learning 🤖 and UAV technology ✈️, wher
 - 🚀 exploring new ways to bridge hardware and software for real-world applications.
 
 ## 🌍beyond the screen:
-when I’m not coding or tinkering with tech, you’ll probably find me
+when I’m not programming or in class, you’ll probably find me
 - in the gym 💪🏾
 - on a hike 🌳
 - with my headphones on 🎧
-- or cheering on my favorite Formula 1 teams 🏎️
+- or cheering on my favorite Formula 1 drivers 🏎️
 
-<h2 align="center">Feel free to check out my repositories and connect with me. Let’s build something amazing together!
+<div align="center"**Feel free to check out my repositories and connect with me. Let’s build something amazing together!**
 
 ## connect with me
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
