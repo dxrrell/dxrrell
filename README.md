@@ -24,22 +24,20 @@ when I’m not coding or tinkering with tech, you’ll probably find me
 <h2 align="center">Feel free to check out my repositories and connect with me. Let’s build something amazing together!
 
 ## connect with me
-
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/otood" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20" height="20"/>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge"/>
+  <a href="https://www.linkedin.com/in/otood" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="25" height="25" style="margin: 0; padding: 0;" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn badge" style="margin: 0; padding: 0;" />
   </a>
   <!-- Instagram -->
-  <a href="https://www.instagram.com/darrell.otoo/" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram badge"/>
+  <a href="https://www.instagram.com/darrell.otoo/" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram badge" style="margin: 0; padding: 0;" />
   </a>
   <!-- Discord -->
-  <a href="https://discord.com/users/338862233893470219" target="_blank" style="text-decoration: none; display: flex; align-items: center;">
-    <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge"/>
+  <a href="https://discord.com/users/338862233893470219" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
+    <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge" style="margin: 0; padding: 0;" />
   </a>
-</div>
 
 ## currently playing on my spotify <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify Logo" width="20" height="20" />
 [![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
