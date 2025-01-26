@@ -30,16 +30,15 @@ when I’m not programming or in class, you’ll probably find me...
   <a href="https://www.instagram.com/darrell.otoo/" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram badge" style="margin: 0; padding: 0;" />
   </a>
+    <!-- Email -->
+  <a href="mailto:darrell.otoo@gmail.com" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email badge" style="margin: 0; padding: 0;" />
+    <span style="margin-left: 8px; font-size: 14px; color: #D14836;"
+  </a>
   <!-- Discord -->
   <a href="https://discord.com/users/338862233893470219" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
     <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge" style="margin: 0; padding: 0;" />
   </a>
-  <!-- Email -->
-  <a href="mailto:darrell.otoo@gmail.com" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email badge" style="margin: 0; padding: 0;" />
-    <span style="margin-left: 8px; font-size: 14px; color: #D14836;">darrell.otoo@gmail.com</span>
-  </a>
-</div>
 
 #### _check out my repositories and connect with me, let's build something amazing together!_
 
