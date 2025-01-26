@@ -35,7 +35,7 @@ when I’m not programming or in class, you’ll probably find me
     <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge" style="margin: 0; padding: 0;" />
   </a>
 
-## check out my repositories and connect with me, let's build something amazing together
+#### check out my repositories and connect with me, let's build something amazing together
 
 ## currently playing on my spotify <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify Logo" width="20" height="20" />
 [![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
