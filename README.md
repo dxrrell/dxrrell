@@ -19,10 +19,6 @@ when I’m not programming or in class, you’ll probably find me
 - with my headphones on 🎧
 - or cheering on my favorite Formula 1 drivers 🏎️
 
-### <div align="center">
-  Feel free to check out my repositories and connect with me. Let’s build something amazing together!
-</div>
-
 ## connect with me
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 0; padding: 0; margin: 0;">
   <!-- LinkedIn -->
@@ -38,6 +34,8 @@ when I’m not programming or in class, you’ll probably find me
   <a href="https://discord.com/users/338862233893470219" target="_blank" style="text-decoration: none; display: flex; align-items: center; padding: 0; margin: 0;">
     <img src="https://dcbadge.limes.pink/api/shield/338862233893470219?theme=default-inverted" height="25" alt="Discord badge" style="margin: 0; padding: 0;" />
   </a>
+
+## check out my repositories and connect with me, let's build something amazing together
 
 ## currently playing on my spotify <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Spotify_icon.svg" alt="Spotify Logo" width="20" height="20" />
 [![Spotify](https://spotify-now-playing-ebon-two.vercel.app/api/spotify)](https://open.spotify.com/user/31tkizmlfusfrey7o3gd64tfx4n4)
